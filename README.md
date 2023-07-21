@@ -1,6 +1,6 @@
-# Simple-similar-image-search-tutorial
+# Simple-similar-image-retrieval-tutorial
 
-### Similar image retrival
+### Similar image retrieval
 
 Drawing inspiration from Fréchet inception distance[1], I have implemented an algorithm for retrieving similar images based on feature distance. Leveraging Inception V3[2] as the feature extractor, I utilized the Euclidean distance to gauge the dissimilarity between features.
 
